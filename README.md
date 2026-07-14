@@ -10,7 +10,9 @@
 7. [Recommendations](#recommendations)
 8. [Live Dashboard](#link-to-live-dashboard)
 9. [Connect With Me](#connect-with-me)
-## Project Overview
+
+    
+### Project Overview
 This project is a Power BI sales variance and forecasting dashboard developed for AlphaNext, a Nigerian FMCG company. The dashboard analyzes sales performance against targets across four sales territories in 2024. It provides insights into salesperson performance, monthly sales trends, variance analysis, and future sales forecasting to support strategic business decisions.
 The analysis revealed that the organization exceeded its annual sales target by ₦46.6M (+1.72%), while also uncovering hidden volatility, regional disparities, and seasonal performance fluctuations that impact long-term revenue stability. The solution combines descriptive analytics, variance analysis, trend monitoring, and forecasting to help leadership optimize planning, improve sales execution, and drive data-informed business decisions.
 ---
@@ -52,6 +54,7 @@ The following steps were carried out during the analysis:
 ---
 
 ### Salesperson Performance
+
 #### Top Performer: Chioma
 - Actual Sales: ₦708.72M
 - Variance: +₦36.77M
